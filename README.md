@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Ehigai Salvation an Electrical/Electronics Engineering student
-- 👀 I’m interested in Web development and control systems Engineering
-- 🌱 I’m currently learning rust 🦀
-- 💞️ I’m looking to collaborate on project related to innovative tech solutions
+### Hi, I’m Ehigai Salvation 👋
+
+- 👨‍💻 Typescript is my primary language  
+- 🦀 Currently learning Rust  
+- 🧙‍♂️ On the path to becoming a fanatical Web Sorcerer  
 - 📫 How to reach me: ehigaisalvation@gmail.com
-- 😄 Pronouns: He/Him
 
 <!---
 Imo-oje/Imo-oje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
