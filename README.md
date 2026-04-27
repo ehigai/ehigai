@@ -1,7 +1,6 @@
 ### Hi, I’m Ehigai Salvation 👋
 
-- 👨‍💻 Typescript is my primary language  
-- 🦀 Currently learning Rust  
+- 👨‍💻 Typescript is my primary language
 - 🧙‍♂️ On the path to becoming a fanatical Web Sorcerer  
 - 📫 How to reach me: ehigaisalvation@gmail.com
 
