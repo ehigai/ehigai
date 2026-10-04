@@ -1,7 +1,7 @@
 ### Hi, I’m Ehigai Salvation 👋
 - ✍🏻 Continous Learner
 - 👨‍💻 Typescript is my primary language
-- 🧙‍♂️ On the path to becoming a fanatical Web Sorcerer and System Alchemist
+- 🧙‍♂️ Fanatical Web Sorcerer and System Alchemist
 - 📫 How to reach me: ehigaisalvation@gmail.com
 
 <!---
